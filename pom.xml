@@ -126,7 +126,7 @@
 				<configuration>
 					<testFailureIgnore> false </testFailureIgnore>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/testng.xml</suiteXmlFile>
+						<suiteXmlFile>src\test\resources\testrunner\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
