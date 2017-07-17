@@ -126,10 +126,8 @@
 				<configuration>
 					<testFailureIgnore> false </testFailureIgnore>
 					<suiteXmlFiles>
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
-					<forkMode>never</forkMode>
-					 <testFailureIgnore>true</testFailureIgnore> 
 				</configuration>
 			</plugin>
 		</plugins>
